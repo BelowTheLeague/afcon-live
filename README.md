@@ -11,4 +11,4 @@ Real-time live updates for AFCON 2025 matches.
 
 ## Deploy with 1 Click
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=[YOUR_REPO_URL](https://github.com/BelowTheLeague/afcon-live))
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/BelowTheLeague/afcon-live))
