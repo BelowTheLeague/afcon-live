@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "home": "Nigeria",
+    "away": "Egypt",
+    "date": "2025-01-14",
+    "status": "upcoming",
+    "updates": []
+  },
+  {
+    "id": 2,
+    "home": "Senegal",
+    "away": "Morocco",
+    "date": "2025-01-15",
+    "status": "upcoming",
+    "updates": []
+  }
+]
